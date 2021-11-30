@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600&display=swap');
 
+:root {
+    --soft-blue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 10%, 50%);
+    --main-bg-blue: hsl(217, 54%, 11%);
+    --card-bg-blue: hsl(216, 50%, 16%);
+    --line-blue: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +19,6 @@ body {
     font-size: 18px;
 }
 
-
 .attribution { 
     font-size: 11px; text-align: center; 
 }
@@ -18,4 +26,3 @@ body {
 .attribution a { 
     color: hsl(228, 45%, 44%); 
 }
-
