@@ -49,6 +49,6 @@ Continuing forward, I'll be focusing on more CSS properties and overlay ones.
 
 ## Author
 
-- Website - [Add your name here](https://mwororokevin.github.io)
-- Github - [mwororokevin](https://github.com/mwororokevin)
-- Frontend Mentor - [mwororokevin](https://www.frontendmentor.io/profile/mwororokevin)
+- Website - [Kevin Kamau Mwororo](https://mwororokevin.github.io)
+- Github - [Kevin Kamau Mwororo](https://github.com/mwororokevin)
+- Frontend Mentor - [Kevin Kamau Mwororo](https://www.frontendmentor.io/profile/mwororokevin)
